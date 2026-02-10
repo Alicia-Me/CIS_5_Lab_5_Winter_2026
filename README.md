@@ -1,6 +1,6 @@
 # CIS_5_Lab_5_Winter_2026
 Practicing Structures
-
+YT: https://youtu.be/P2dpPFm6aNE
 Goal: Create a business card with structures for different companies. 
 
 Scenario: You are hired as a software developer to create business card for various differnt companies! However there is a customer that is wanting to compare different prices offered by the company. Make it so that the customer can check all the prices from the companies and see which one is perfect for this to purchase! 
